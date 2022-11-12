@@ -1,3 +1,9 @@
+## Installation
+
+* Components that need to be installed.
+
+***
+
 1. Install .Net 6.0 sdk first. For this project, we use .Net 6.0. Below is the link for you to download .Net 6.0 :
 
     - [.Net 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
@@ -26,4 +32,4 @@
     
       > ![image](https://user-images.githubusercontent.com/47632993/169224354-d0b7336c-24e0-4996-b4fc-f214cc400ff4.png)
 
-6. After you finish setup everything. Now you are ready to proceed to create your first RazorPge project or run this project :grin:
+6. After you finish setup everything. Now you are ready to proceed to create your first RazorPge project :grin:
