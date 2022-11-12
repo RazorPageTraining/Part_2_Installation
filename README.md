@@ -37,4 +37,4 @@
     
       > ![image](https://user-images.githubusercontent.com/47632993/169224354-d0b7336c-24e0-4996-b4fc-f214cc400ff4.png)
 
-6. After you finish setup everything. Now you are ready to proceed to create your first RazorPge project :grin:
+6. After you finish setup everything. Now you are ready to proceed to create your first RazorPage project :grin:
