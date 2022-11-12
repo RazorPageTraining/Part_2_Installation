@@ -1,5 +1,10 @@
 ## Installation
 
+| NO. | TITLE |
+| ----------- | ----------- |
+| 1 | [Introduction](https://github.com/RazorPageTraining/Part_1_Introduction) |
+</BR>
+
 * Components that need to be installed.
 
 ***
